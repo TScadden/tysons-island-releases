@@ -1,0 +1,222 @@
+{
+ "generatedAt": 1795679754537,
+ "teamName": "Zamboni Zealots",
+ "leagueName": "Mighty Mammoth",
+ "leagueId": 2050155930,
+ "players": [
+  {
+   "espnId": 3114766,
+   "name": "Alex Tuch",
+   "teamId": "23",
+   "pos": "RW",
+   "starter": true,
+   "out": false
+  },
+  {
+   "espnId": 4024857,
+   "name": "Clayton Keller",
+   "teamId": "129764",
+   "pos": "LW",
+   "starter": true,
+   "out": false
+  },
+  {
+   "espnId": 4697389,
+   "name": "Jack Quinn",
+   "teamId": "2",
+   "pos": "RW",
+   "starter": true,
+   "out": false
+  },
+  {
+   "espnId": 4565262,
+   "name": "Jackson LaCombe",
+   "teamId": "25",
+   "pos": "D",
+   "starter": true,
+   "out": false
+  },
+  {
+   "espnId": 3042016,
+   "name": "Josh Morrissey",
+   "teamId": "28",
+   "pos": "D",
+   "starter": true,
+   "out": false
+  },
+  {
+   "espnId": 3042109,
+   "name": "Juuse Saros",
+   "teamId": "27",
+   "pos": "G",
+   "starter": true,
+   "out": false
+  },
+  {
+   "espnId": 3899952,
+   "name": "Kyle Connor",
+   "teamId": "28",
+   "pos": "LW",
+   "starter": true,
+   "out": false
+  },
+  {
+   "espnId": 4588165,
+   "name": "Lukas Dostal",
+   "teamId": "25",
+   "pos": "G",
+   "starter": true,
+   "out": false
+  },
+  {
+   "espnId": 3114722,
+   "name": "Sam Reinhart",
+   "teamId": "26",
+   "pos": "RW",
+   "starter": true,
+   "out": false
+  },
+  {
+   "espnId": 3114757,
+   "name": "Travis Sanheim",
+   "teamId": "15",
+   "pos": "D",
+   "starter": true,
+   "out": false
+  },
+  {
+   "espnId": 5216878,
+   "name": "Zayne Parekh",
+   "teamId": "3",
+   "pos": "D",
+   "starter": true,
+   "out": false
+  },
+  {
+   "espnId": 3114802,
+   "name": "Adrian Kempe",
+   "teamId": "8",
+   "pos": "RW",
+   "starter": false,
+   "out": false
+  },
+  {
+   "espnId": 3041970,
+   "name": "Aleksander Barkov",
+   "teamId": "26",
+   "pos": "C",
+   "starter": false,
+   "out": false
+  },
+  {
+   "espnId": 3151187,
+   "name": "Brayden Point",
+   "teamId": "20",
+   "pos": "C",
+   "starter": false,
+   "out": false
+  },
+  {
+   "espnId": 2976839,
+   "name": "Jacob Trouba",
+   "teamId": "18",
+   "pos": "D",
+   "starter": false,
+   "out": true
+  },
+  {
+   "espnId": 4874899,
+   "name": "Logan Stankoven",
+   "teamId": "7",
+   "pos": "C",
+   "starter": false,
+   "out": false
+  },
+  {
+   "espnId": 3904183,
+   "name": "Roope Hintz",
+   "teamId": "9",
+   "pos": "C",
+   "starter": false,
+   "out": false
+  },
+  {
+   "espnId": 3114736,
+   "name": "William Nylander",
+   "teamId": "21",
+   "pos": "RW",
+   "starter": false,
+   "out": false
+  }
+ ],
+ "standings": [
+  {
+   "name": "LAKE EFFECT LEGENDS",
+   "points": 1016.4
+  },
+  {
+   "name": "Zamboni Zealots",
+   "points": 966.9
+  },
+  {
+   "name": "MacKinnon it Happen",
+   "points": 927.9
+  },
+  {
+   "name": "Unlikely hero",
+   "points": 810.1
+  },
+  {
+   "name": "Olivia's omazing team! ",
+   "points": 796.9
+  },
+  {
+   "name": "Gunner's Girl",
+   "points": 749.7
+  },
+  {
+   "name": "Whitney's wild ride ",
+   "points": 732.7
+  },
+  {
+   "name": "Net Zero",
+   "points": 704
+  },
+  {
+   "name": "Zamboni Drivers",
+   "points": 687.4
+  },
+  {
+   "name": "Puck Norris",
+   "points": 650.9
+  },
+  {
+   "name": "Tuff-Stuff Adam ",
+   "points": 638.4
+  },
+  {
+   "name": "Eliza just wants to have fun",
+   "points": 587.4
+  },
+  {
+   "name": "Penalty Keller",
+   "points": 577.1
+  },
+  {
+   "name": "Mr Potato Heads Hockey Pucks",
+   "points": 546.4
+  }
+ ],
+ "scoring": {
+  "goal": 2,
+  "assist": 1,
+  "ppPoint": 0.5,
+  "shPoint": 0.5,
+  "hatTrick": 1,
+  "shot": 0.1,
+  "hit": 0.1,
+  "win": 4,
+  "save": 0.2,
+  "otLoss": 1
+ }
+}
