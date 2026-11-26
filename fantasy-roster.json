@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795694456431,
+ "generatedAt": 1795723190708,
  "teamName": "Zamboni Zealots",
  "leagueName": "Mighty Mammoth",
  "leagueId": 2050155930,
@@ -9,14 +9,6 @@
    "name": "Alex Tuch",
    "teamId": "23",
    "pos": "RW",
-   "starter": true,
-   "out": false
-  },
-  {
-   "espnId": 4576894,
-   "name": "Arturs Silovs",
-   "teamId": "16",
-   "pos": "G",
    "starter": true,
    "out": false
   },
@@ -115,6 +107,14 @@
    "pos": "C",
    "starter": false,
    "out": false
+  },
+  {
+   "espnId": 5149125,
+   "name": "Connor Bedard",
+   "teamId": "4",
+   "pos": "C",
+   "starter": false,
+   "out": true
   },
   {
    "espnId": 4874899,
