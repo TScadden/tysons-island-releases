@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795679754537,
+ "generatedAt": 1795694456431,
  "teamName": "Zamboni Zealots",
  "leagueName": "Mighty Mammoth",
  "leagueId": 2050155930,
@@ -9,6 +9,14 @@
    "name": "Alex Tuch",
    "teamId": "23",
    "pos": "RW",
+   "starter": true,
+   "out": false
+  },
+  {
+   "espnId": 4576894,
+   "name": "Arturs Silovs",
+   "teamId": "16",
+   "pos": "G",
    "starter": true,
    "out": false
   },
@@ -61,14 +69,6 @@
    "out": false
   },
   {
-   "espnId": 4588165,
-   "name": "Lukas Dostal",
-   "teamId": "25",
-   "pos": "G",
-   "starter": true,
-   "out": false
-  },
-  {
    "espnId": 3114722,
    "name": "Sam Reinhart",
    "teamId": "26",
@@ -117,18 +117,18 @@
    "out": false
   },
   {
-   "espnId": 2976839,
-   "name": "Jacob Trouba",
-   "teamId": "18",
-   "pos": "D",
-   "starter": false,
-   "out": true
-  },
-  {
    "espnId": 4874899,
    "name": "Logan Stankoven",
    "teamId": "7",
    "pos": "C",
+   "starter": false,
+   "out": false
+  },
+  {
+   "espnId": 4588165,
+   "name": "Lukas Dostal",
+   "teamId": "25",
+   "pos": "G",
    "starter": false,
    "out": false
   },
@@ -152,59 +152,59 @@
  "standings": [
   {
    "name": "LAKE EFFECT LEGENDS",
-   "points": 1016.4
+   "points": 1049.0
   },
   {
    "name": "Zamboni Zealots",
-   "points": 966.9
+   "points": 1000.3
   },
   {
    "name": "MacKinnon it Happen",
-   "points": 927.9
+   "points": 953.4
   },
   {
    "name": "Unlikely hero",
-   "points": 810.1
+   "points": 842.3
   },
   {
    "name": "Olivia's omazing team! ",
-   "points": 796.9
+   "points": 821.2
   },
   {
    "name": "Gunner's Girl",
-   "points": 749.7
+   "points": 777.1
   },
   {
    "name": "Whitney's wild ride ",
-   "points": 732.7
+   "points": 766.7
   },
   {
    "name": "Net Zero",
-   "points": 704
+   "points": 725.6
   },
   {
    "name": "Zamboni Drivers",
-   "points": 687.4
+   "points": 709.8
   },
   {
    "name": "Puck Norris",
-   "points": 650.9
+   "points": 672.3
   },
   {
    "name": "Tuff-Stuff Adam ",
-   "points": 638.4
+   "points": 651.2
   },
   {
    "name": "Eliza just wants to have fun",
-   "points": 587.4
+   "points": 607.1
   },
   {
    "name": "Penalty Keller",
-   "points": 577.1
+   "points": 596.6
   },
   {
    "name": "Mr Potato Heads Hockey Pucks",
-   "points": 546.4
+   "points": 561.7
   }
  ],
  "scoring": {
