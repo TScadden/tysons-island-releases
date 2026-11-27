@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795766510799,
+ "generatedAt": 1795809714604,
  "teamName": "Zamboni Zealots",
  "leagueName": "Mighty Mammoth",
  "leagueId": 2050155930,
@@ -17,14 +17,6 @@
    "name": "Clayton Keller",
    "teamId": "129764",
    "pos": "LW",
-   "starter": true,
-   "out": false
-  },
-  {
-   "espnId": 4697389,
-   "name": "Jack Quinn",
-   "teamId": "2",
-   "pos": "RW",
    "starter": true,
    "out": false
   },
@@ -61,6 +53,14 @@
    "out": false
   },
   {
+   "espnId": 3026526,
+   "name": "Laurent Brossoit",
+   "teamId": "25",
+   "pos": "G",
+   "starter": true,
+   "out": false
+  },
+  {
    "espnId": 3114722,
    "name": "Sam Reinhart",
    "teamId": "26",
@@ -73,6 +73,14 @@
    "name": "Travis Sanheim",
    "teamId": "15",
    "pos": "D",
+   "starter": true,
+   "out": false
+  },
+  {
+   "espnId": 3114736,
+   "name": "William Nylander",
+   "teamId": "21",
+   "pos": "RW",
    "starter": true,
    "out": false
   },
@@ -117,6 +125,14 @@
    "out": true
   },
   {
+   "espnId": 4697389,
+   "name": "Jack Quinn",
+   "teamId": "2",
+   "pos": "RW",
+   "starter": false,
+   "out": false
+  },
+  {
    "espnId": 4874899,
    "name": "Logan Stankoven",
    "teamId": "7",
@@ -137,14 +153,6 @@
    "name": "Roope Hintz",
    "teamId": "9",
    "pos": "C",
-   "starter": false,
-   "out": false
-  },
-  {
-   "espnId": 3114736,
-   "name": "William Nylander",
-   "teamId": "21",
-   "pos": "RW",
    "starter": false,
    "out": false
   }
@@ -176,7 +184,7 @@
   },
   {
    "name": "Whitney's wild ride ",
-   "points": 766.7
+   "points": 766.8
   },
   {
    "name": "Net Zero",
@@ -188,7 +196,7 @@
   },
   {
    "name": "Puck Norris",
-   "points": 672.3
+   "points": 672.5
   },
   {
    "name": "Tuff-Stuff Adam ",
