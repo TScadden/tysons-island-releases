@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795809714604,
+ "generatedAt": 1795867202123,
  "teamName": "Zamboni Zealots",
  "leagueName": "Mighty Mammoth",
  "leagueId": 2050155930,
@@ -160,59 +160,59 @@
  "standings": [
   {
    "name": "LAKE EFFECT LEGENDS",
-   "points": 1049.0
+   "points": 1085.4
   },
   {
    "name": "Zamboni Zealots",
-   "points": 1000.3
+   "points": 1032.9
   },
   {
    "name": "MacKinnon it Happen",
-   "points": 953.4
+   "points": 998.7
   },
   {
    "name": "Unlikely hero",
-   "points": 842.3
+   "points": 865.0
   },
   {
    "name": "Olivia's omazing team! ",
-   "points": 821.2
+   "points": 849.1
   },
   {
    "name": "Gunner's Girl",
-   "points": 777.1
+   "points": 815.4
   },
   {
    "name": "Whitney's wild ride ",
-   "points": 766.8
+   "points": 800.2
   },
   {
    "name": "Net Zero",
-   "points": 725.6
+   "points": 748.9
   },
   {
    "name": "Zamboni Drivers",
-   "points": 709.8
+   "points": 729.7
   },
   {
    "name": "Puck Norris",
-   "points": 672.5
+   "points": 692.6
   },
   {
    "name": "Tuff-Stuff Adam ",
-   "points": 651.2
+   "points": 664.5
   },
   {
    "name": "Eliza just wants to have fun",
-   "points": 607.1
+   "points": 631.3
   },
   {
    "name": "Penalty Keller",
-   "points": 596.6
+   "points": 627.4
   },
   {
    "name": "Mr Potato Heads Hockey Pucks",
-   "points": 561.7
+   "points": 586.0
   }
  ],
  "scoring": {
